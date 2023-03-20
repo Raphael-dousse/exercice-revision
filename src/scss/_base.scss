@@ -54,3 +54,10 @@ h3 {
 /* ====================================
 // base rules
 // ==================================== */
+
+.content p {
+  color: rgb(7, 65, 7);
+  background-color: orange;
+  border: solid rgb(7, 65, 7);
+  padding: 10px;
+}

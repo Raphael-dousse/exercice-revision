@@ -1,0 +1,48 @@
+#flexbox-01 {
+  display: flex;
+  flex-direction: row;
+}
+
+#flexbox-01 p {
+  color: rgb(7, 65, 7);
+  background-color: orange;
+  border: solid rgb(7, 65, 7);
+  padding: 20px 40px;
+}
+
+#flexbox-02 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#flexbox-02 p {
+  color: rgb(7, 65, 7);
+  background-color: orange;
+  border: solid rgb(7, 65, 7);
+  padding: 20px 40px;
+}
+
+#flexbox-03 {
+  display: flex;
+  flex-direction: row;
+}
+
+#flexbox-03 p {
+  color: rgb(7, 65, 7);
+  background-color: orange;
+  border: solid rgb(7, 65, 7);
+  padding: 20px 130px 20px 30px;
+}
+
+#flexbox-04 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#flexbox-04 p {
+  color: rgb(7, 65, 7);
+  background-color: orange;
+  border: solid rgb(7, 65, 7);
+  padding: 20px 205px 20px 30px;
+}
