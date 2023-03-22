@@ -1,0 +1,47 @@
+#positions-01 p {
+  color: rgb(0, 38, 31);
+  background-color: rgb(76, 152, 137);
+  border: solid rgb(7, 65, 7);
+  width: 100px;
+  height: 100px;
+}
+
+#positions-01 .Beta {
+  position: relative;
+  top: -30px;
+  left: 50px;
+}
+
+// position 2
+
+.content-ABox {
+  color: rgb(7, 65, 7);
+  background-color: rgb(251, 231, 76);
+  border: solid rgb(7, 65, 7);
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  top: 30px;
+  right: 30px;
+}
+
+.content-ABBox {
+  color: rgb(7, 65, 7);
+  background-color: rgb(251, 231, 76);
+  border: solid rgb(7, 65, 7);
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  bottom: 30px;
+  left: 0;
+}
+
+#positions-02 .box {
+  color: rgb(0, 38, 31);
+  background-color: rgb(76, 152, 137);
+  border: solid rgb(7, 65, 7);
+  padding: 30px;
+  position: relative;
+}
+
+// positions-03
